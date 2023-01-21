@@ -25,4 +25,3 @@ def runningSum(nums):
     return nums
 #time O(n)
 #space O(1)
-
