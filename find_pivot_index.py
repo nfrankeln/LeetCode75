@@ -18,7 +18,7 @@
 # Right sum = nums[4] + nums[5] = 5 + 6 = 11
 
 # solution
-def pivotIndex(nums):
+def pivot_index(nums):
     left = 0
     right = sum(nums)
     for index,number in enumerate(nums):
